@@ -5,7 +5,7 @@
         "link168": {
             "dst_id": "11111111-1111-1111-1111-000000000002",
             "dst_view_id": "input0",
-            "src_id": "11111111-1111-1111-1111-000000000005",
+            "src_id": "11111111-1111-1111-1111-000000000006",
             "src_view_id": "output0"
         },
         "link171": {
@@ -15,43 +15,43 @@
             "src_view_id": "output1"
         },
         "link205": {
-            "dst_id": "11111111-1111-1111-1111-000000000007",
+            "dst_id": "11111111-1111-1111-1111-000000000008",
             "dst_view_id": "input0",
-            "src_id": "11111111-1111-1111-1111-00000000000e",
+            "src_id": "11111111-1111-1111-1111-00000000000f",
             "src_view_id": "output0"
         },
         "link206": {
-            "dst_id": "11111111-1111-1111-1111-00000000000f",
+            "dst_id": "11111111-1111-1111-1111-000000000010",
             "dst_view_id": "input0",
-            "src_id": "11111111-1111-1111-1111-000000000007",
+            "src_id": "11111111-1111-1111-1111-000000000008",
             "src_view_id": "output0"
         },
         "link207": {
-            "dst_id": "11111111-1111-1111-1111-00000000000e",
+            "dst_id": "11111111-1111-1111-1111-00000000000f",
             "dst_view_id": "input101",
             "src_id": "11111111-1111-1111-1111-000000000001",
             "src_view_id": "output0"
         },
         "link209": {
-            "dst_id": "11111111-1111-1111-1111-000000000009",
+            "dst_id": "11111111-1111-1111-1111-00000000000a",
             "dst_view_id": "input0",
-            "src_id": "11111111-1111-1111-1111-00000000000c",
+            "src_id": "11111111-1111-1111-1111-00000000000d",
             "src_view_id": "output0"
         },
         "link211": {
-            "dst_id": "11111111-1111-1111-1111-00000000000d",
+            "dst_id": "11111111-1111-1111-1111-00000000000e",
             "dst_view_id": "input0",
-            "src_id": "11111111-1111-1111-1111-000000000009",
+            "src_id": "11111111-1111-1111-1111-00000000000a",
             "src_view_id": "output0"
         },
         "link214": {
-            "dst_id": "11111111-1111-1111-1111-00000000000c",
+            "dst_id": "11111111-1111-1111-1111-00000000000d",
             "dst_view_id": "input101",
-            "src_id": "11111111-1111-1111-1111-000000000006",
+            "src_id": "11111111-1111-1111-1111-000000000007",
             "src_view_id": "output0"
         },
         "link215": {
-            "dst_id": "11111111-1111-1111-1111-000000000006",
+            "dst_id": "11111111-1111-1111-1111-000000000007",
             "dst_view_id": "input0",
             "src_id": "11111111-1111-1111-1111-000000000001",
             "src_view_id": "output1"
@@ -63,7 +63,7 @@
             "src_view_id": "output0"
         },
         "link219": {
-            "dst_id": "11111111-1111-1111-1111-000000000005",
+            "dst_id": "11111111-1111-1111-1111-000000000006",
             "dst_view_id": "input0",
             "src_id": "11111111-1111-1111-1111-000000000004",
             "src_view_id": "output0"
@@ -75,27 +75,27 @@
             "src_view_id": "output0"
         },
         "link221": {
-            "dst_id": "11111111-1111-1111-1111-00000000000a",
+            "dst_id": "11111111-1111-1111-1111-00000000000b",
             "dst_view_id": "input101",
-            "src_id": "11111111-1111-1111-1111-000000000008",
+            "src_id": "11111111-1111-1111-1111-000000000009",
             "src_view_id": "output0"
         },
         "link222": {
-            "dst_id": "11111111-1111-1111-1111-000000000008",
+            "dst_id": "11111111-1111-1111-1111-000000000009",
             "dst_view_id": "input0",
             "src_id": "11111111-1111-1111-1111-000000000002",
             "src_view_id": "output0"
         },
         "link223": {
-            "dst_id": "11111111-1111-1111-1111-00000000000b",
+            "dst_id": "11111111-1111-1111-1111-00000000000c",
             "dst_view_id": "input101",
-            "src_id": "11111111-1111-1111-1111-00000000000a",
+            "src_id": "11111111-1111-1111-1111-00000000000b",
             "src_view_id": "output0"
         }
     },
     "property_map": {
         "error": {
-            "11111111-1111-1111-1111-00000000000a_error0": {
+            "11111111-1111-1111-1111-00000000000b_error0": {
                 "label": {
                     "value": "Check if the User Exist - error0"
                 },
@@ -103,7 +103,7 @@
                     "value": "document"
                 }
             },
-            "11111111-1111-1111-1111-00000000000c_error0": {
+            "11111111-1111-1111-1111-00000000000d_error0": {
                 "label": {
                     "value": "Salesforce Read - error0"
                 },
@@ -111,7 +111,7 @@
                     "value": "document"
                 }
             },
-            "11111111-1111-1111-1111-00000000000e_error0": {
+            "11111111-1111-1111-1111-00000000000f_error0": {
                 "label": {
                     "value": "ServiceNow Query - error0"
                 },
@@ -140,7 +140,15 @@
         },
         "input": {},
         "output": {
-            "11111111-1111-1111-1111-00000000000b_output0": {
+            "11111111-1111-1111-1111-000000000005_output0": {
+                "label": {
+                    "value": "JSON Generator - output0"
+                },
+                "view_type": {
+                    "value": "document"
+                }
+            },
+            "11111111-1111-1111-1111-00000000000c_output0": {
                 "label": {
                     "value": "Disable Entry - output0"
                 },
@@ -148,7 +156,7 @@
                     "value": "document"
                 }
             },
-            "11111111-1111-1111-1111-00000000000d_output101": {
+            "11111111-1111-1111-1111-00000000000e_output101": {
                 "label": {
                     "value": "Deactive the User Entry in SalesForce - output0"
                 },
@@ -156,7 +164,7 @@
                     "value": "document"
                 }
             },
-            "11111111-1111-1111-1111-00000000000f_output0": {
+            "11111111-1111-1111-1111-000000000010_output0": {
                 "label": {
                     "value": "ServiceNow Delete - output0"
                 },
@@ -189,7 +197,7 @@
         "detail_map": {
             "11111111-1111-1111-1111-000000000000": {
                 "error": {},
-                "grid_x_int": 3,
+                "grid_x_int": 4,
                 "grid_y_int": 3,
                 "index": null,
                 "input": {},
@@ -201,7 +209,7 @@
             },
             "11111111-1111-1111-1111-000000000001": {
                 "error": {},
-                "grid_x_int": 8,
+                "grid_x_int": 9,
                 "grid_y_int": 4,
                 "index": null,
                 "input": {},
@@ -219,7 +227,7 @@
             },
             "11111111-1111-1111-1111-000000000002": {
                 "error": {},
-                "grid_x_int": 7,
+                "grid_x_int": 8,
                 "grid_y_int": 3,
                 "index": null,
                 "input": {},
@@ -237,7 +245,7 @@
             },
             "11111111-1111-1111-1111-000000000003": {
                 "error": {},
-                "grid_x_int": 4,
+                "grid_x_int": 5,
                 "grid_y_int": 3,
                 "index": null,
                 "input": {},
@@ -249,7 +257,7 @@
             },
             "11111111-1111-1111-1111-000000000004": {
                 "error": {},
-                "grid_x_int": 5,
+                "grid_x_int": 6,
                 "grid_y_int": 3,
                 "index": null,
                 "input": {},
@@ -261,8 +269,8 @@
             },
             "11111111-1111-1111-1111-000000000005": {
                 "error": {},
-                "grid_x_int": 6,
-                "grid_y_int": 3,
+                "grid_x_int": 4,
+                "grid_y_int": 5,
                 "index": null,
                 "input": {},
                 "output": {},
@@ -273,8 +281,8 @@
             },
             "11111111-1111-1111-1111-000000000006": {
                 "error": {},
-                "grid_x_int": 9,
-                "grid_y_int": 5,
+                "grid_x_int": 7,
+                "grid_y_int": 3,
                 "index": null,
                 "input": {},
                 "output": {},
@@ -286,19 +294,19 @@
             "11111111-1111-1111-1111-000000000007": {
                 "error": {},
                 "grid_x_int": 10,
-                "grid_y_int": 4,
+                "grid_y_int": 5,
                 "index": null,
                 "input": {},
                 "output": {},
                 "recommendation_id": null,
                 "rot_int": 0,
                 "rot_tail_int": 0,
-                "source": ""
+                "source": "snap catagory"
             },
             "11111111-1111-1111-1111-000000000008": {
                 "error": {},
-                "grid_x_int": 8,
-                "grid_y_int": 2,
+                "grid_x_int": 11,
+                "grid_y_int": 4,
                 "index": null,
                 "input": {},
                 "output": {},
@@ -309,24 +317,6 @@
             },
             "11111111-1111-1111-1111-000000000009": {
                 "error": {},
-                "grid_x_int": 11,
-                "grid_y_int": 6,
-                "index": null,
-                "input": {},
-                "output": {},
-                "recommendation_id": null,
-                "rot_int": 0,
-                "rot_tail_int": 0,
-                "source": "snap catagory"
-            },
-            "11111111-1111-1111-1111-00000000000a": {
-                "error": {
-                    "error0": {
-                        "dx_int": 0,
-                        "dy_int": -1,
-                        "rot_int": 0
-                    }
-                },
                 "grid_x_int": 9,
                 "grid_y_int": 2,
                 "index": null,
@@ -337,37 +327,7 @@
                 "rot_tail_int": 0,
                 "source": ""
             },
-            "11111111-1111-1111-1111-00000000000b": {
-                "error": {},
-                "grid_x_int": 10,
-                "grid_y_int": 2,
-                "index": null,
-                "input": {},
-                "output": {},
-                "recommendation_id": null,
-                "rot_int": 0,
-                "rot_tail_int": 0,
-                "source": "snap catagory"
-            },
-            "11111111-1111-1111-1111-00000000000c": {
-                "error": {
-                    "error0": {
-                        "dx_int": 0,
-                        "dy_int": -1,
-                        "rot_int": 0
-                    }
-                },
-                "grid_x_int": 10,
-                "grid_y_int": 6,
-                "index": null,
-                "input": {},
-                "output": {},
-                "recommendation_id": null,
-                "rot_int": 0,
-                "rot_tail_int": 0,
-                "source": "snap catagory"
-            },
-            "11111111-1111-1111-1111-00000000000d": {
+            "11111111-1111-1111-1111-00000000000a": {
                 "error": {},
                 "grid_x_int": 12,
                 "grid_y_int": 6,
@@ -379,7 +339,7 @@
                 "rot_tail_int": 0,
                 "source": "snap catagory"
             },
-            "11111111-1111-1111-1111-00000000000e": {
+            "11111111-1111-1111-1111-00000000000b": {
                 "error": {
                     "error0": {
                         "dx_int": 0,
@@ -387,7 +347,67 @@
                         "rot_int": 0
                     }
                 },
-                "grid_x_int": 9,
+                "grid_x_int": 10,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": ""
+            },
+            "11111111-1111-1111-1111-00000000000c": {
+                "error": {},
+                "grid_x_int": 11,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-00000000000d": {
+                "error": {
+                    "error0": {
+                        "dx_int": 0,
+                        "dy_int": -1,
+                        "rot_int": 0
+                    }
+                },
+                "grid_x_int": 11,
+                "grid_y_int": 6,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-00000000000e": {
+                "error": {},
+                "grid_x_int": 13,
+                "grid_y_int": 6,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-00000000000f": {
+                "error": {
+                    "error0": {
+                        "dx_int": 0,
+                        "dy_int": -1,
+                        "rot_int": 0
+                    }
+                },
+                "grid_x_int": 10,
                 "grid_y_int": 4,
                 "index": null,
                 "input": {},
@@ -397,9 +417,9 @@
                 "rot_tail_int": 0,
                 "source": ""
             },
-            "11111111-1111-1111-1111-00000000000f": {
+            "11111111-1111-1111-1111-000000000010": {
                 "error": {},
-                "grid_x_int": 11,
+                "grid_x_int": 12,
                 "grid_y_int": 4,
                 "index": null,
                 "input": {},
@@ -751,9 +771,64 @@
             }
         },
         "11111111-1111-1111-1111-000000000005": {
+            "class_id": "com-snaplogic-snaps-transform-jsongenerator",
+            "class_version": 2,
+            "instance_id": "11111111-1111-1111-1111-000000000005",
+            "property_map": {
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "JSON Generator"
+                    },
+                    "notes": {}
+                },
+                "input": {},
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "arrayElementsAsDocuments": {
+                        "value": true
+                    },
+                    "editable_content": {
+                        "value": "## Enter your JSON-encoded data in this space.  Note that this text is\n## treated as an Apache Velocity template, so you can substitute values\n## from input documents or the pipeline parameters.  See the following\n## URL for more information about Velocity:\n##   https://velocity.apache.org/engine/devel/user-guide.html\n\n[\n    {\n        \"msg\" : \"Hello, World\", \"num\" : 1\n    }\n]\n\n\n## Tips:\n##  * The sample data above will generate a single empty document, uncomment\n##    the line in the middle to include the sample fields.  Adding more\n##    objects to the root array will cause the snap to generate more\n##    than one document.\n##  * Pipeline parameters can be referenced by prefixing the parameter\n##    name with an underscore, like so:\n##      ${_pipelineParamName}\n##  * If you add an input view to the snap, this template will be\n##    evaluated for each input document.\n##  * Fields in the input documents can be referenced by prefixing them\n##    with a dollar-sign ($), like so:\n##      $parent.child[0].value\n##  * Any referenced document values and pipeline parameters will\n##    automatically be JSON-encoded when they are inserted into the final\n##    JSON document.  You should not have to worry about escaping values\n##    yourself.\n##  * If you are having troubles getting a template to produce valid JSON,\n##    you can add an error view to the snap to get a document that\n##    contains the output of the template evaluation.\n"
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "passThroughProp": {
+                        "value": false
+                    },
+                    "supportTypeExts": {
+                        "value": false
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000006": {
             "class_id": "com-snaplogic-snaps-transform-datatransform",
             "class_version": 4,
-            "instance_id": "11111111-1111-1111-1111-000000000005",
+            "instance_id": "11111111-1111-1111-1111-000000000006",
             "property_map": {
                 "error": {
                     "error0": {
@@ -866,10 +941,10 @@
                 "view_serial": 100
             }
         },
-        "11111111-1111-1111-1111-000000000006": {
+        "11111111-1111-1111-1111-000000000007": {
             "class_id": "com-snaplogic-snaps-transform-datatransform",
             "class_version": 4,
-            "instance_id": "11111111-1111-1111-1111-000000000006",
+            "instance_id": "11111111-1111-1111-1111-000000000007",
             "property_map": {
                 "error": {
                     "error0": {
@@ -946,10 +1021,10 @@
                 "view_serial": 100
             }
         },
-        "11111111-1111-1111-1111-000000000007": {
+        "11111111-1111-1111-1111-000000000008": {
             "class_id": "com-snaplogic-snaps-transform-datatransform",
             "class_version": 4,
-            "instance_id": "11111111-1111-1111-1111-000000000007",
+            "instance_id": "11111111-1111-1111-1111-000000000008",
             "property_map": {
                 "error": {
                     "error0": {
@@ -1026,10 +1101,10 @@
                 "view_serial": 100
             }
         },
-        "11111111-1111-1111-1111-000000000008": {
+        "11111111-1111-1111-1111-000000000009": {
             "class_id": "com-snaplogic-snaps-transform-datatransform",
             "class_version": 4,
-            "instance_id": "11111111-1111-1111-1111-000000000008",
+            "instance_id": "11111111-1111-1111-1111-000000000009",
             "property_map": {
                 "error": {
                     "error0": {
@@ -1106,10 +1181,10 @@
                 "view_serial": 100
             }
         },
-        "11111111-1111-1111-1111-000000000009": {
+        "11111111-1111-1111-1111-00000000000a": {
             "class_id": "com-snaplogic-snaps-transform-datatransform",
             "class_version": 4,
-            "instance_id": "11111111-1111-1111-1111-000000000009",
+            "instance_id": "11111111-1111-1111-1111-00000000000a",
             "property_map": {
                 "error": {
                     "error0": {
@@ -1195,10 +1270,10 @@
                 "view_serial": 100
             }
         },
-        "11111111-1111-1111-1111-00000000000a": {
+        "11111111-1111-1111-1111-00000000000b": {
             "class_id": "com-snaplogic-snaps-ad-adlistusers",
             "class_version": 1,
-            "instance_id": "11111111-1111-1111-1111-00000000000a",
+            "instance_id": "11111111-1111-1111-1111-00000000000b",
             "property_map": {
                 "account": {
                     "account_ref": {
@@ -1274,10 +1349,10 @@
                 "view_serial": 101
             }
         },
-        "11111111-1111-1111-1111-00000000000b": {
+        "11111111-1111-1111-1111-00000000000c": {
             "class_id": "com-snaplogic-snaps-ad-addisableentry",
             "class_version": 1,
-            "instance_id": "11111111-1111-1111-1111-00000000000b",
+            "instance_id": "11111111-1111-1111-1111-00000000000c",
             "property_map": {
                 "account": {
                     "account_ref": {
@@ -1353,10 +1428,10 @@
                 "view_serial": 101
             }
         },
-        "11111111-1111-1111-1111-00000000000c": {
+        "11111111-1111-1111-1111-00000000000d": {
             "class_id": "com-snaplogic-snaps-salesforce-read",
             "class_version": 1,
-            "instance_id": "11111111-1111-1111-1111-00000000000c",
+            "instance_id": "11111111-1111-1111-1111-00000000000d",
             "property_map": {
                 "account": {
                     "account_ref": {
@@ -1497,10 +1572,10 @@
                 "view_serial": 101
             }
         },
-        "11111111-1111-1111-1111-00000000000d": {
+        "11111111-1111-1111-1111-00000000000e": {
             "class_id": "com-snaplogic-snaps-salesforce-update",
             "class_version": 1,
-            "instance_id": "11111111-1111-1111-1111-00000000000d",
+            "instance_id": "11111111-1111-1111-1111-00000000000e",
             "property_map": {
                 "account": {
                     "account_ref": {
@@ -1607,10 +1682,10 @@
                 "view_serial": 101
             }
         },
-        "11111111-1111-1111-1111-00000000000e": {
+        "11111111-1111-1111-1111-00000000000f": {
             "class_id": "com-snaplogic-snaps-servicenow-servicenowquery",
             "class_version": 2,
-            "instance_id": "11111111-1111-1111-1111-00000000000e",
+            "instance_id": "11111111-1111-1111-1111-00000000000f",
             "property_map": {
                 "account": {
                     "account_ref": {
@@ -1710,10 +1785,10 @@
                 "view_serial": 101
             }
         },
-        "11111111-1111-1111-1111-00000000000f": {
+        "11111111-1111-1111-1111-000000000010": {
             "class_id": "com-snaplogic-snaps-servicenow-servicenowdeletebyid",
             "class_version": 1,
-            "instance_id": "11111111-1111-1111-1111-00000000000f",
+            "instance_id": "11111111-1111-1111-1111-000000000010",
             "property_map": {
                 "account": {
                     "account_ref": {
